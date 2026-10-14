@@ -96,23 +96,23 @@ Esses resultados ajudam a demonstrar como o Power BI pode ser utilizado para com
 
 ## 📑 Índice do relatório
 
-
+![mini-projeto-dashboard-comercial](03_Imagens/Indice.png)
 
 ## 📊 Narrativa Inteligente
 
-
+![mini-projeto-dashboard-comercial](03_Imagens/Narrativa_inteligente.png)
 
 ## 🔎 Principais Influenciadores de Vendas
 
-
+![mini-projeto-dashboard-comercial](03_Imagens/principais_influenciadores.png)
 
 ## 🏪 Faixas de Vendas por Categorias e Pontos de Venda
 
-
+![mini-projeto-dashboard-comercial](03_Imagens/faixa_venda.png)
 
 ## 🗺️ Performance dos Vendedores por Região
 
-
+![mini-projeto-dashboard-comercial](03_Imagens/principais_influenciadores.png)
 
 ## 🎓 Contexto
 
